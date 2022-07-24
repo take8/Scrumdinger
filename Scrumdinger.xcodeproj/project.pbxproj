@@ -44,6 +44,7 @@
 		6023E523288C9018006D9F4F /* ScrumdingerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrumdingerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6023E527288C9018006D9F4F /* ScrumdingerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerUITests.swift; sourceTree = "<group>"; };
 		6023E529288C9018006D9F4F /* ScrumdingerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6023E538288DC601006D9F4F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		6023E500288C9017006D9F4F = {
 			isa = PBXGroup;
 			children = (
+				6023E538288DC601006D9F4F /* README.md */,
 				6023E50B288C9017006D9F4F /* Scrumdinger */,
 				6023E51C288C9018006D9F4F /* ScrumdingerTests */,
 				6023E526288C9018006D9F4F /* ScrumdingerUITests */,
